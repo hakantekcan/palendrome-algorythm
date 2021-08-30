@@ -1,0 +1,1 @@
+# palendrome-algorythm
